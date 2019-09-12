@@ -1,6 +1,9 @@
 {
-"image" : "https://resize.hswstatic.com/w_907/gif/mars-methane.jpg",
-"audio" : "https://raw.githubusercontent.com/IonDen/ion.sound/master/sounds/bell_ring.ogg",
-"video" : "https://r5---sn-woc7lne7.googlevideo.com/videoplayback?expire=1568299771&ei=mgZ6XbjhNMuT1waKm68g&ip=41.164.81.202&id=o-APB9KMiJ10QMveU5DGU36GOYT_3qLJIw6SCcf0XVqIKr&itag=18&source=youtube&requiressl=yes&mm=31%2C26&mn=sn-woc7lne7%2Csn-hc57en7d&ms=au%2Conr&mv=m&mvi=4&pl=19&initcwndbps=198750&mime=video%2Fmp4&gir=yes&clen=17321731&ratebypass=yes&dur=448.748&lmt=1540545729867547&mt=1568278042&fvip=6&c=WEB&txp=5431432&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cmime%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AHylml4wRQIhALZK5az6o59-mR3deIp-w3T-RgtKGqZ1yjcVptCAsRWaAiAPMZ-6BBsByZFW4NxYvkbxSCBol2hcZiahSBgbiR-2hQ%3D%3D&sig=ALgxI2wwRQIhAJ8HpoQaq78ZDH3eW4oeMZUHFvQGlGRoHB8eFiQdFco5AiBsb-t3Hnp2crdPUR-qzbfQqqFkJHw-Y_IErG0hS6GJ1Q==&title=%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%85%D9%84%D9%83%20%D9%85%D8%B4%D8%A7%D8%B1%D9%8A%20%D8%A7%D9%84%D8%A8%D8%BA%D9%84%D9%8A%20-%20mishari%20albaghli%20SuratAl-Mulk",
-"pdf" : "http://www.kciti.edu/wp-content/uploads/2017/07/cprogramming_tutorial.pdf"
+  "posts": [
+    { "id": 1, "title": "json-server", "author": "typicode" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
 }
